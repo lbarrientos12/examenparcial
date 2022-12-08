@@ -177,4 +177,22 @@ h1,h2,h3,h4,h5,h6,p{
 	padding-bottom: 20px;
 }
 
+#perfil{
+	background-color: #ffdde9;
+}
 
+#perfil img{
+	border-radius: 50%;
+}
+
+.foto-perfil{
+    padding: 100px;
+    background-color: #ffc2d8;
+    margin-top: 0;
+}
+.user-name{
+	font-size: 50px;
+	color: #fff;
+	margin-top: 25px;
+	text-align: center;
+}
